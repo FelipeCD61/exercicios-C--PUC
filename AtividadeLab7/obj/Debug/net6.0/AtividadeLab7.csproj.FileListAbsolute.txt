@@ -1,0 +1,15 @@
+C:\Users\Usuario\Downloads\ATP\AtividadeLab7\bin\Debug\net6.0\AtividadeLab7.exe
+C:\Users\Usuario\Downloads\ATP\AtividadeLab7\bin\Debug\net6.0\AtividadeLab7.deps.json
+C:\Users\Usuario\Downloads\ATP\AtividadeLab7\bin\Debug\net6.0\AtividadeLab7.runtimeconfig.json
+C:\Users\Usuario\Downloads\ATP\AtividadeLab7\bin\Debug\net6.0\AtividadeLab7.dll
+C:\Users\Usuario\Downloads\ATP\AtividadeLab7\bin\Debug\net6.0\AtividadeLab7.pdb
+C:\Users\Usuario\Downloads\ATP\AtividadeLab7\obj\Debug\net6.0\AtividadeLab7.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ATP\AtividadeLab7\obj\Debug\net6.0\AtividadeLab7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\ATP\AtividadeLab7\obj\Debug\net6.0\AtividadeLab7.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\ATP\AtividadeLab7\obj\Debug\net6.0\AtividadeLab7.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\ATP\AtividadeLab7\obj\Debug\net6.0\AtividadeLab7.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ATP\AtividadeLab7\obj\Debug\net6.0\AtividadeLab7.dll
+C:\Users\Usuario\Downloads\ATP\AtividadeLab7\obj\Debug\net6.0\refint\AtividadeLab7.dll
+C:\Users\Usuario\Downloads\ATP\AtividadeLab7\obj\Debug\net6.0\AtividadeLab7.pdb
+C:\Users\Usuario\Downloads\ATP\AtividadeLab7\obj\Debug\net6.0\AtividadeLab7.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\ATP\AtividadeLab7\obj\Debug\net6.0\ref\AtividadeLab7.dll
