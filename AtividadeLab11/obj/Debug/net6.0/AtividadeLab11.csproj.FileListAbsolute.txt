@@ -1,0 +1,15 @@
+C:\Users\Usuario\Downloads\AtividadeLab11\obj\Debug\net6.0\AtividadeLab11.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\AtividadeLab11\obj\Debug\net6.0\AtividadeLab11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\AtividadeLab11\obj\Debug\net6.0\AtividadeLab11.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\AtividadeLab11\obj\Debug\net6.0\AtividadeLab11.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\AtividadeLab11\obj\Debug\net6.0\AtividadeLab11.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\AtividadeLab11\bin\Debug\net6.0\AtividadeLab11.exe
+C:\Users\Usuario\Downloads\AtividadeLab11\bin\Debug\net6.0\AtividadeLab11.deps.json
+C:\Users\Usuario\Downloads\AtividadeLab11\bin\Debug\net6.0\AtividadeLab11.runtimeconfig.json
+C:\Users\Usuario\Downloads\AtividadeLab11\bin\Debug\net6.0\AtividadeLab11.dll
+C:\Users\Usuario\Downloads\AtividadeLab11\bin\Debug\net6.0\AtividadeLab11.pdb
+C:\Users\Usuario\Downloads\AtividadeLab11\obj\Debug\net6.0\AtividadeLab11.dll
+C:\Users\Usuario\Downloads\AtividadeLab11\obj\Debug\net6.0\refint\AtividadeLab11.dll
+C:\Users\Usuario\Downloads\AtividadeLab11\obj\Debug\net6.0\AtividadeLab11.pdb
+C:\Users\Usuario\Downloads\AtividadeLab11\obj\Debug\net6.0\AtividadeLab11.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\AtividadeLab11\obj\Debug\net6.0\ref\AtividadeLab11.dll
