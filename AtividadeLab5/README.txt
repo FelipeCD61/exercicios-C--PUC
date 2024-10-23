@@ -2,7 +2,7 @@ Você deve criar um programa para avaliar se um aluno foi aprovado na disciplina
 
 Na disciplina de ATP temos o processo de avaliação por módulo, seguindo a distribuição da tabela abaixo:
 
-Descrição	              Avaliações	                          Valor
+Descrição	              Avaliações	                     Valor
 Módulo 1	               Prova 1A	                              20
 Módulo 1	               Prova 1B	                              20
 Módulo 2	               Prova 2A	                              20
