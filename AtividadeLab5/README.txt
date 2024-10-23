@@ -7,7 +7,7 @@ Módulo 1	               Prova 1A	                              20
 Módulo 1	               Prova 1B	                              20
 Módulo 2	               Prova 2A	                              20
 Módulo 2	               Prova 2B	                              20
-Atividades	   Resenhas + Laboratórios + ADA                       20
+Atividades	   Resenhas + Laboratórios + ADA                      20
 
 Para o aluno ser aprovado ele deve alcançar nota superior ou igual a 60 pontos, no somatório das notas e frequência maior e igual a 75%. Caso o aluno não alcance 60 pontos, ele poderá fazer uma reavaliação no valor de 40 pontos que substituíra a nota do menor módulo, ou seja, as provas 1A+1B ou 2A+2B.
 
